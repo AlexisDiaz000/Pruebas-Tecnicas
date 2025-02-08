@@ -60,4 +60,4 @@ function mostrarInformacionSuperheroes(seudonimos) {
 }
 
 
-mostrarInformacionSuperheroes(["HULK", "CAP. AMERICA", "SPIDER-MAN"]);
+mostrarInformacionSuperheroes(["HULK"]);
